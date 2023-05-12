@@ -26,10 +26,7 @@
   "homepage": "https://github.com/thollander/actions-comment-pull-request#readme",
   "dependencies": {
     "@actions/core": "^1.9.0",
-    "@actions/exec": "^1.0.0",
-    "@actions/github": "^5.0.3",
-    "@actions/io": "^1.1.3",
-    "@actions/tool-cache": "^2.0.1"
+    "@actions/github": "^5.0.3"
   },
   "devDependencies": {
     "@tsconfig/node16": "^1.0.3",
